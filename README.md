@@ -30,7 +30,7 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
 
   - Explore the correlation matrix to understand relationships between features.
     <p align="left">
-      <img src="images/correlation-matrix.png" alt="Correlation Matrix" width="500" height="400">
+      <img src="images/correlation-matrix.png" alt="Correlation Matrix" width="600" height="400">
     </p>
   
   - Dive deep into feature importance to identify key factors influencing predictions.
@@ -42,6 +42,7 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
 
 + ### Modeling Mastery 🧠
   Train state-of-the-art machine learning models, including Logistic Regression, K-Nearest Neighbors Classifier, XGBoost Classifier and Random Forest Classifier. Each model is meticulously crafted to capture the nuances of heart disease prediction.
+  
   Compare the model performances to check which model best fits your problem.
   <p align="left">
       <img src="images/model-comparison.png" alt="Model Comparison" width="420" height="300">
@@ -52,5 +53,32 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
 
 + ### Insightful Evaluation Metrics 📈
   Evaluate model performance using a suite of metrics, including **ROC curves, AUC scores, Confusion Matrix, and comprehensive Classification Reports**. These metrics provide a holistic view of the model's predictive capabilities.
+
+## Installation Guide:
+
+1. Clone the Repository:
+
+   ```bash
+   git clone https://github.com/MariaMahmood18/Heart-Disease-Classification-Project.git
+   cd Heart-Disease-Classification-Project
+   ```
+
+2. Install Dependencies:
+
+   Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+   Open a terminal or command prompt in the project directory and run:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+This will open the Jupyter Notebook interface in your web browser. Navigate to the notebooks directory and open the main notebook (e.g. `heart_disease_classification.ipynb`).
+
+That's it! You're ready to explore and run the project locally.
 
 

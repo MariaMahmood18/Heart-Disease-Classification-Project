@@ -77,7 +77,7 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
    ```bash
    jupyter notebook
    ```
-This will open the Jupyter Notebook interface in your web browser. Navigate to the notebooks directory and open the main notebook (e.g. `heart_disease_classification.ipynb`).
+This will open the Jupyter Notebook interface in your web browser. Navigate to the notebooks directory and open the main notebook (e.g. `end-to-end-heart-disease-classification.ipynb`).
 
 That's it! You're ready to explore and run the project locally.
 

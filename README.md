@@ -29,22 +29,23 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
   Immerse yourself in the dataset using powerful data analysis tools such as Pandas, Numpy, Seaborn, and Matplotlib. Visualizations unveil patterns and insights crucial for informed decision-making.
 
   - Explore the correlation matrix to understand relationships between features.
-    <p align="center">
-      <img src="images/correlation-matrix.png" alt="Correlation Matrix" width="600" height="500">
+    <p align="left">
+      <img src="images/correlation-matrix.png" alt="Correlation Matrix" width="500" height="400">
     </p>
   
   - Dive deep into feature importance to identify key factors influencing predictions.
-    <p align="center">
-      <img src="images/feature-importance.png" alt="Feature Importance" width="600" height="500">
+    <p align="left">
+      <img src="images/feature-importance.png" alt="Feature Importance" width="420" height="300">
     </p>
   
   - Decode the performance with a comprehensive confusion matrix.
-    <p align="center">
-      <img src="images/confusion-matrix.png" alt="Confusion Matrix" width="600" height="500">
-    </p>
 
 + ### Modeling Mastery 🧠
   Train state-of-the-art machine learning models, including Logistic Regression, K-Nearest Neighbors Classifier, XGBoost Classifier and Random Forest Classifier. Each model is meticulously crafted to capture the nuances of heart disease prediction.
+  Compare the model performances to check which model best fits your problem.
+  <p align="left">
+      <img src="images/model-comparison.png" alt="Model Comparison" width="420" height="300">
+    </p>
 
 + ### Hyperparameter Elegance ⚙️
   Fine-tune models with precision using advanced techniques such as **RandomizedSearchCV** and **GridSearchCV**.
@@ -52,6 +53,4 @@ Whether you're a data science enthusiast or a healthcare professional, this proj
 + ### Insightful Evaluation Metrics 📈
   Evaluate model performance using a suite of metrics, including **ROC curves, AUC scores, Confusion Matrix, and comprehensive Classification Reports**. These metrics provide a holistic view of the model's predictive capabilities.
 
-+ ### Tools of the Trade 🛠️
-  Harness the power of Scikit-learn models: Logistic Regression, RandomForestClassifier, KNeighborsClassifier, and XGBClassifier. These tools empower us to build robust and accurate predictive models.
 
